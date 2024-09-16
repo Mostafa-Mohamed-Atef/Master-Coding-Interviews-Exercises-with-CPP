@@ -1,0 +1,10 @@
+# Ignore all files
+*
+
+!.gitignore
+
+# But do not ignore directories (needed for git to search inside them)
+!*/
+
+# Do not ignore .cpp files
+!*.cpp
