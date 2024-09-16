@@ -13,6 +13,6 @@ int main()
 {
     string x = "Hi My name is X";
     
-    cout << reverse(x);
+    cout << reverse(x)<<endl;
     return 0;
 }
