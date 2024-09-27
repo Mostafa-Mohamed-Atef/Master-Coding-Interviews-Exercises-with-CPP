@@ -1,4 +1,5 @@
 #include <iostream>
+#include <vector>
 using namespace std;
 
 class Node {
@@ -185,8 +186,9 @@ int main() {
     tree.remove(3);
     tree.remove(2);
     tree.remove(6);
-
     tree.printTree();
+
+
 
 
 
