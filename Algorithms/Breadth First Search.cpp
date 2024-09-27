@@ -1,4 +1,4 @@
-//BFS
+//BFS => using binary search tree 
 void breadthFirstSearch() {
     if (root == nullptr) return;
     vector<int> list; //the main arr 
